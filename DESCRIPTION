@@ -1,0 +1,18 @@
+Package: XSData.repository
+Type: Package
+Title: Methods for computing ex-situ conservation status for taxa
+Version: 1.0-0
+Date: 2023-10-28
+Imports: terra
+Author: A. Uthor
+Maintainer: A. Uthor <author.package@gmail.com>
+Description: Data for the XSitu package
+Encoding: UTF-8
+License: GPL (>=3)
+Depends: R (>= 4.0.0)
+BugReports: https://github.com/ElGraouiM/XSData_repository/issues
+LazyLoad: yes
+Authors@R: c(
+	person("A.", "Uthor", role = c("cre", "aut"),  
+			 comment = c(ORCID = "0000-0000-0000-0000")),
+    person("A.", "Uthor", role = c("aut"), comment = c(ORCID = "0000-0003-2392-6140")))
